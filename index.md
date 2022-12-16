@@ -10,9 +10,7 @@ En esta página mostraremos una suma teologica y mostraremos la impotancias que 
 
 ## Mapa General
 
-![Mapa Mental Edad Media (1)](https://user-images.githubusercontent.com/120294254/208022739-e7abc533-623b-4664-ac6a-e0a537c87cc1.jpg)
 ![Mapa Mental Edad Media (2)](https://user-images.githubusercontent.com/120294254/208022741-ce5c8f09-a112-4dee-bf72-5f698575e6a0.jpg)
-![Mapa Mental Edad Media (3)](https://user-images.githubusercontent.com/120294254/208022743-59a4a148-da84-41c7-8a34-eb6bf890b419.jpg)
 
 ## ¿Qué es una Suma?
 
