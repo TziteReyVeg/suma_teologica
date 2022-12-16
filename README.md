@@ -6,5 +6,5 @@ En esta página mostraremos una suma teologica y mostraremos la impotancias que 
 
 ## ¿Qué es una Suma?
 
-##M anuscrito
+## Manuscrito
 
